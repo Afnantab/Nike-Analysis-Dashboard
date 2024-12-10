@@ -35,3 +35,11 @@ Online sales contributed the highest operating margin (55.6%).
 Identified top-performing products, such as Nike Air Max and Nike Air Zoom Pegasus 36, which drive significant profits.
 
 Highlighted regional and sales-method-based trends to optimize performance.
+
+# How to View the Dashboard:
+Download the .pbix file from this repository.
+
+Open the file using Power BI Desktop.
+
+Explore the dashboard to analyze sales trends and metrics.
+
